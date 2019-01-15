@@ -1,2 +1,3 @@
-# Serverless
-This is my professional portfolio
+# Winston Smith's Portfolio
+
+This is my professional Portfolio. It uses AWS and ReactJS
